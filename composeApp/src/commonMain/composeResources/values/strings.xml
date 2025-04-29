@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <string name="search_hint">Search...</string>
+    <string name="close_hint">Clear Search</string>
+    <string name="search_results">Search Results</string>
+    <string name="favorites">Favorites</string>
+    <string name="no_search_results">No Books Found</string>
+    <string name="no_favorite_books">No Favorite Books</string>
+    <string name="error_disk_full">Storage Full</string>
+    <string name="error_unknown">Unknown Error</string>
+    <string name="error_request_timeout">Request Timeout</string>
+    <string name="error_no_internet">No Internet Connection</string>
+    <string name="error_too_many_requests">Too many requests</string>
+    <string name="error_serialization">Serialization Error</string>
+    <string name="book_cover">Book Cover</string>
+    <string name="ratings">Rating</string>
+    <string name="pages">Pages</string>
+    <string name="languages">Languages</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="description_unavailable">Description not available.</string>
+    <string name="go_back">Go back</string>
+    <string name="mark_as_fav">Mark as Favorite</string>
+    <string name="remove_from_fav">Remove from Favorites</string>
+</resources>
